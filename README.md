@@ -1,7 +1,4 @@
-
-<center>
 ![header](https://capsule-render.vercel.app/api?type=waving&color=a2dbd7&height=300&section=header&text=Seowon%20Yu&fontSize=90)
-</center>
 <div align="center">
 안녕하세요! <br/>
 의사소통의 중요성을 아는 주니어 데이터 엔지니어 유서원입니다.<br/>
