@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=a2dbd7&height=300&section=header&text=Seowon%20Yu&fontSize=90)
 <div align="center">
 안녕하세요! <br/>
-의사소통의 중요성을 아는 주니어 데이터 엔지니어 유서원입니다.<br/>
+의사소통의 중요성을 아는 개발자 유서원입니다.<br/>
 유연성과 꼼꼼함을 바탕으로 주어진 환경에서 최선의 성과를 내기 위해 노력합니다.<br/> 
 <br/>
 <b>Python</b>을 기반으로 <b>Django</b> 프레임워크를 사용하여 웹 사이트 개발을 진행한 경험이 있습니다.<br/>
